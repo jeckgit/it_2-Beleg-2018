@@ -1,0 +1,23 @@
+
+*** These modified files were found in JOE when it aborted on Wed Nov 15 08:24:58 2017
+*** JOE was aborted because the terminal closed
+
+*** Datei '/home/rex/fi3/im14/s72589/IT2/it2-beleg/.git/MERGE_MSG'
+Merge branch 'master' of https://github.com/HTWDD-RN/s72589-it2-beleg
+
+# Bitte geben Sie eine Commit-Beschreibung ein, um zu erklären, warum dieser
+# Merge erforderlich ist, insbesondere wenn es einen aktualisierten
+# Upstream-Branch mit einem Thema-Branch zusammenführt.
+#
+# Zeilen beginnend mit '#' werden ignoriert, und eine leere Beschreibung
+# bricht den Commit 
+
+
+*** Datei '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** Datei '(Unbenannt)'
+/home/rex/fi3/im14/s72589/IT2/it2-beleg/.git/MERGE_MSG
